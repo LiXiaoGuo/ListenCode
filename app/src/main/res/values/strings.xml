@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">听码</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_check_file">选择文件</string>
+    <string name="action_start_speek">播放语音</string>
+    <string name="action_stop_speek">停止语音</string>
+    <string name="action_down_speeker">下载发音人</string>
+    <string name="action_single_reading_sta">单行阅读：开</string>
+    <string name="action_single_reading_end">单行阅读：关</string>
+</resources>

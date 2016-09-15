@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.liguo.listencode.MainActivity" >
+    <item android:id="@+id/action_check_file"
+        android:title="@string/action_check_file"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_start_speek"
+        android:title="@string/action_start_speek"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_stop_speek"
+        android:title="@string/action_stop_speek"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_down_speeker"
+        android:title="@string/action_down_speeker"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_single_reading"
+        android:title="@string/action_single_reading_end"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
