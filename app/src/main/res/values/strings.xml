@@ -7,4 +7,5 @@
     <string name="action_down_speeker">下载发音人</string>
     <string name="action_single_reading_sta">单行阅读：开</string>
     <string name="action_single_reading_end">单行阅读：关</string>
+    <string name="action_speek_distinguish">语音识别</string>
 </resources>

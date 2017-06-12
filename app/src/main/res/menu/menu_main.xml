@@ -22,4 +22,8 @@
         android:title="@string/action_single_reading_end"
         android:orderInCategory="100"
         app:showAsAction="never" />
+    <item android:id="@+id/action_speek_distinguish"
+        android:title="@string/action_speek_distinguish"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
 </menu>
